@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AplicacionRecycler</string>
+    <string name="ir_a_listado">ir a listado</string>
+    <string name="ir_a_componentes">Ir a componentes</string>
+    <string name="ir_a_google">Ir a Google</string>
+    <string name="equipo">Equipo</string>
+    <string name="copas_nacionales">Copas Nacionales</string>
+    <string name="copas_internacionales">Copas Internacionales</string>
+</resources>
